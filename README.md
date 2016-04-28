@@ -14,3 +14,9 @@ Along with including find, insert, and delete functions, a function will also be
 by reading in a new file with information from the last/most recent game that was played.
 
 A linked list will also be created to separate the different teams in order to have a faster search.
+
+Contributer:
+Cassandra Goodby
+
+Bugs:
+No main file so code did not run
